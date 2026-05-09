@@ -7,13 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Master's student in Economics at the **Graduate School of Future Policy Studies, Sungkyunkwan University (SKKU)**, advised by Professor [Jun Sung Kim](https://sites.google.com/view/junsungkim). I am currently applying to PhD programs in Economics in the United States for **Fall 2026** admission.
+I am a Master's student in Economics at the **Graduate School of Future Policy Studies, Sungkyunkwan University (SKKU)**. I am currently applying to PhD programs in Economics in the United States for **Fall 2026** admission.
 
 My research interests lie in **labor economics, international trade, and applied microeconomics**. I am particularly interested in how trade shocks reshape local labor markets — including their distributional effects across cohorts, regions, and industrial structures. My current work uses U.S. Commuting Zone–level data and shift-share IV designs to study the long-run labor market consequences of the China trade shock.
 
 Prior to SKKU, I received my B.A. in Chinese Foreign Affairs and Commerce, with a dual major in English, from **Hankuk University of Foreign Studies (HUFS)**, graduating 2nd in my department.
 
-📄 You can find my CV [here](/files/CV_HyunjaeOh.pdf).
+📄 You can find my CV [here](/files/CV_H[CV_HyunjaeOh_.docx](https://github.com/user-attachments/files/27548766/CV_HyunjaeOh_.docx)
+yunjaeOh.pdf).
 
 ---
 
@@ -40,7 +41,7 @@ This thesis estimates age-group and birth-cohort effects of the China trade shoc
 
 ## Contact
 
-📧 hyunlics@gmail.com  
+📧 hyunjae.oh1@gmail.com  
 📍 Seoul, South Korea  
 
 [CV](/files/CV_HyunjaeOh.pdf) · [GitHub](https://github.com/hyunjae-oh)

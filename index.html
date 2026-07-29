@@ -12,6 +12,54 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
   </head>
+<style>
+  :root{
+    --ink:#222222;
+    --muted:#6b6b6b;
+    --link:#2a6496;
+    --link-hover:#1a3f61;
+    --rule:#e2e2e2;
+    --bg:#ffffff;
+    --sidebar-w:290px;
+    --maxwidth:1080px;
+  }
+    /* ---------- Sidebar ---------- */
+  .sidebar{
+    width:var(--sidebar-w);
+    flex:0 0 var(--sidebar-w);
+    position:sticky;
+    top:60px;
+  }
+  .sidebar h1{
+    font-size:26px;
+    line-height:1.25;
+    margin:0 0 4px;
+    font-weight:600;
+    letter-spacing:-0.01em;
+  } .portrait{
+    width:100%;
+    max-width:230px;
+    aspect-ratio:1/1;
+    object-fit:cover;
+    border-radius:2px;
+    margin-bottom:20px;
+    background:#f0f0f0;
+  }
+  .links{
+    list-style:none;
+    margin:0 0 8px;
+    padding:0;
+    font-size:15px;
+  }
+  .links li{margin:2px 0;}
+  .tagline{
+    font-size:14px;
+    color:var(--muted);
+    margin-top:18px;
+    line-height:1.5;
+  }
+
+  
   <body>
     <div class="wrapper">
       <header>
@@ -32,6 +80,8 @@
       Seoul, South Korea
     </p>
   </aside>
+
+        
       </header>
       <section>
         <h1>GitHub Flavored Markdown</h1>
@@ -107,18 +157,23 @@
     </section>
 
 
-      
+         <hr class="divider">
   <!-- ============ TEACHING / SERVICE (optional) ============ -->
     <section>
       <h2>Background</h2>
       <p class="abstract" style="color:#3a3a3a;">
-        HSK Level 6 (Chinese) · Teaching certification in Chinese and English ·
-        MITx MicroMasters in Statistics and Data Science (in progress) ·
-        Stata, Python, R.
+        ·HSK Level 6 (Chinese), TOEFL 5.0/6.0 
+        ·Teaching certification in Chinese and English 
+        ·MITx MicroMasters in Statistics and Data Science (in progress) 
+        ·Stata, Python, R.
       </p>
     </section>
 
   </main>
+
+      <footer>
+        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderlist">orderlist</a></small></p>
+      </footer>
 </div>
 </body>
 </html>

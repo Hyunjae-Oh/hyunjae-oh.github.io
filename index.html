@@ -23,6 +23,29 @@
     --sidebar-w:290px;
     --maxwidth:1080px;
   }
+      *{box-sizing:border-box;}
+  html{-webkit-text-size-adjust:100%;}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size:16px;
+    line-height:1.6;
+    -webkit-font-smoothing:antialiased;
+  }
+  a{color:var(--link);text-decoration:none;}
+  a:hover{color:var(--link-hover);text-decoration:underline;}
+
+  .wrap{
+    max-width:var(--maxwidth);
+    margin:0 auto;
+    padding:60px 40px;
+    display:flex;
+    gap:56px;
+    align-items:flex-start;
+  }
+
     /* ---------- Sidebar ---------- */
   .sidebar{
     width:var(--sidebar-w);
@@ -81,10 +104,10 @@
       Sungkyunkwan University (SKKU)<br>
       Seoul, South Korea
     </p>
-  </aside>
-
-        
-      </header>
+  </aside> 
+    </header>
+      
+      
       <section>
         <h1>GitHub Flavored Markdown</h1>
 
